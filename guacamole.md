@@ -7,3 +7,5 @@
 - salt
 
 ## Instructions
+
+smash guac
